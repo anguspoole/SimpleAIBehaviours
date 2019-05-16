@@ -3,14 +3,14 @@ Created this project as part of my fanshawe game development course.
 
 By: Angus Poole
 
-# COMPILING/RUNNING:
+## COMPILING/RUNNING:
 Compile/Run in x86/Release
 
-# CONTROLS:
+## CONTROLS:
 W/S to move, A/D to turn
 Space Bar to shoot
 
-# ENEMIES:
+## ENEMIES:
 - The Red/Orange ship is the Seeking/Fleeing ship
 - The Green/Yellow ship is the Pursue/Evade ship
 - The Blue/Purple ship is the Approach/Fire ship
@@ -18,7 +18,7 @@ Space Bar to shoot
 
 Enemies must be shot twice before dying
 
-# CODE:
+## CODE:
 The AI behaviour can be found in AIBehaviour.cpp.
 Spawning code for bullets and player controls can be found in UserIO.cpp.
 Physics code can be found in PhysicsStuff.cpp
