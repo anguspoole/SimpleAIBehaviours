@@ -3,6 +3,10 @@ Created this project as part of my fanshawe game development course.
 
 By: Angus Poole
 
+## Video
+
+https://www.youtube.com/watch?v=M4QdvZ8WQmI
+
 ## COMPILING/RUNNING:
 Compile/Run in x86/Release
 
